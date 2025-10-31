@@ -1,0 +1,4 @@
+Core filter=lfs diff=lfs merge=lfs -text
+Drivers filter=lfs diff=lfs merge=lfs -text
+MDK-ARM filter=lfs diff=lfs merge=lfs -text
+PWM_duo.ioc filter=lfs diff=lfs merge=lfs -text
